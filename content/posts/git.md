@@ -38,4 +38,5 @@ draft = false
 + git stash 
 
 ## git rebase
-+ rebase操作可以把本地未push的分叉提交历史整理成直线 1.0
+本地分支未提交，git commit --amend 可以修改提交信息。111
++ rebase操作可以把本地未push的分叉提交历史整理成直线 2.0 test
