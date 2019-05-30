@@ -39,4 +39,4 @@ draft = false
 
 ## git rebase
 本地分支未提交，git commit --amend 可以修改提交信息。
-+ rebase操作可以把本地未push的分叉提交历史整理成直线 3.0
++ rebase操作可以把本地未push的分叉提交历史整理成直线 3.0 test test
