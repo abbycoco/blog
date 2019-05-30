@@ -38,5 +38,4 @@ draft = false
 + git stash 
 
 ## git rebase
-<<<<<<< HEAD
-+ rebase操作可以把本地未push的分叉提交历史整理成直线 test
++ rebase操作可以把本地未push的分叉提交历史整理成直线 test test test
